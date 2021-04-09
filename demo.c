@@ -2,5 +2,6 @@
 int main()
 {
     int m;
+    scanf("%d",&m);
     printf("Hello");
 }
